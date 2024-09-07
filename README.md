@@ -92,7 +92,7 @@ We welcome contributions from the community! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-For more details, please check our [Contributing Guidelines](CONTRIBUTING.md).
+For more details, please check our [Contributing Guidelines](https://github.com/ArunKumar200510/Edu-Quest/blob/main/CONTRIBUTING.md).
 
 ---
 
