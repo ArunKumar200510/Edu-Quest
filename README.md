@@ -76,7 +76,7 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 
 ## 🔁 App Flow
 
-![App Flowchart](#)  
+![App Flowchart](Pictures/Work%20Flow.png)
 
 
 This flowchart explains the key components of the app, how they interact with each other, and the overall user experience.
