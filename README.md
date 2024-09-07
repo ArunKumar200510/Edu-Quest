@@ -111,5 +111,3 @@ Have questions, suggestions, or just want to say hi? Reach out to us at [arun700
 ### ⭐️ If you find this project useful, please give it a star!
 
 ---
-
-This structure is thorough and includes detailed feature descriptions while maintaining a professional tone. You can adjust or expand upon specific sections based on your project's needs.
