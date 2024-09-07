@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Have questions, suggestions, or just want to say hi? Reach out to us at [email@example.com](mailto:arun700101@gmail.com). We'd love to hear from you!
+Have questions, suggestions, or just want to say hi? Reach out to us at [arun700101@gmail.com](mailto:arun700101@gmail.com). We'd love to hear from you!
 
 ---
 
