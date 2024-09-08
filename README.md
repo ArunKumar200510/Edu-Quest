@@ -12,20 +12,30 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 - **DOC Chat:** Allows you to interact directly with your study materials. Simply upload a document (PDF, DOCX, etc.), and the AI chatbot will answer any questions related to the content. Perfect for clarifying complex concepts in real-time.
 - **Q&A Chat:** Whether online or offline, this feature offers instant answers to your academic queries using AI models. The offline chatbot is powered by a fine-tuned Gemma model, ensuring no interruption in your learning even without internet access.
 
+  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
+
 ### 🧠 Personalized Quizzes & Flashcards
 - **Quizzes:** Automatically generated quizzes based on your study materials. The app creates questions that are specifically tailored to your learning pace and performance, ensuring that you're always challenged but never overwhelmed.
 - **Flashcards:** Helps reinforce learning with flashcards that are automatically created from your study materials. Whether you're prepping for an exam or just reviewing content, flashcards make recall easier and more efficient.
 
+  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
+
 ### 📲 QR Code Book
 - **Scan & Learn:** Each textbook or study guide can be enhanced with QR codes. Scanning these codes within the app retrieves related content, and you can even access RAG (Retrieve, Answer, Generate) PDFs, enabling a dynamic and interactive learning experience.
+
+  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
 
 ### 🔄 History & Progress Tracking
 - **History Tracking:** Keeps a detailed log of your study sessions, quizzes, and flashcards, making it easy to revisit past content. 
 - **Progress Tracking:** Monitor your learning progress with features that track quiz performance, document interactions, and flashcard mastery. Never lose sight of your learning journey.
 
+  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
+
 ### 📶 Offline Mode
 - **Offline Chatbot:** The Gemma model allows you to continue using the chatbot features without internet access. Whether you're on a plane or in a remote area, your study momentum remains uninterrupted.
 - **Local Storage:** Chats, quizzes, and flashcards are stored locally, so you can access them anytime without worrying about internet connectivity.
+
+  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
 
 ---
 
@@ -77,7 +87,6 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 ## 🔁 App Flow
 
 ![App Flowchart](Pictures/Work%20Flow.png)
-
 
 This flowchart explains the key components of the app, how they interact with each other, and the overall user experience.
 
