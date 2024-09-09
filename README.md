@@ -7,35 +7,83 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 ---
 
 ## 🌟 Key Features
+### 🖥️Interface
+<p align="center">
+  <img src="Pictures/Logo.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/Icon.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/get_Started.png" width="300"/>
+</p>
+
 
 ### 📑 DOC Chat & Q&A Chat
 - **DOC Chat:** Allows you to interact directly with your study materials. Simply upload a document (PDF, DOCX, etc.), and the AI chatbot will answer any questions related to the content. Perfect for clarifying complex concepts in real-time.
-- **Q&A Chat:** Whether online or offline, this feature offers instant answers to your academic queries using AI models. The offline chatbot is powered by a fine-tuned Gemma model, ensuring no interruption in your learning even without internet access.
+<p align="center">
+  <img src="Pictures/upload_pdf.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/chat_with_pdf.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/Quiz,flash,summary.png" width="300"/>
+</p>
+  
+- **Image Chat:** Allows you to interact with complex image questions that cant be texted. Just by uploading the photo and integrating AI with that provides seemless response to the question.
+<p align="center">
+  <img src="Pictures/Chat_im.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/Chat_im_res.png" width="300" style="margin-right: 10px;"/>
+</p>
 
-  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
+- **General Purpose:** Allows you to ask any multi domain subjectual questions and get accurate response achieved by prompt engineering and chain of thoughts and powered by Google Gemini model.
+<p align="center">
+  <img src="Pictures/General_Purpose.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/General.png" width="300" style="margin-right: 10px;"/>
+</p>
+
 
 ### 🧠 Personalized Quizzes & Flashcards
 - **Quizzes:** Automatically generated quizzes based on your study materials. The app creates questions that are specifically tailored to your learning pace and performance, ensuring that you're always challenged but never overwhelmed.
-- **Flashcards:** Helps reinforce learning with flashcards that are automatically created from your study materials. Whether you're prepping for an exam or just reviewing content, flashcards make recall easier and more efficient.
+<p align="center">
+  <img src="Pictures/Quiz,flash,summary.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/quiz.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/score.png" width="300"/>
+</p>
 
-  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
+- **Flashcards:** Helps reinforce learning with flashcards that are automatically created from your study materials. Whether you're prepping for an exam or just reviewing content, flashcards make recall easier and more efficient.
+<p align="center">
+  <img src="flash.png" width="300" style="margin-right: 10px;"/>
+  <img src="flash_ans.png" width="300" style="margin-right: 10px;"/>
+</p>
+
 
 ### 📲 QR Code Book
 - **Scan & Learn:** Each textbook or study guide can be enhanced with QR codes. Scanning these codes within the app retrieves related content, and you can even access RAG (Retrieve, Answer, Generate) PDFs, enabling a dynamic and interactive learning experience.
+<p align="center">
+  <img src="Pictures/scan_QR.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/scanned_QR.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/Chat_with_QR.png" width="300"/>
+</p>
 
-  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
 
 ### 🔄 History & Progress Tracking
-- **History Tracking:** Keeps a detailed log of your study sessions, quizzes, and flashcards, making it easy to revisit past content. 
+- **History Tracking:** Keeps a detailed log of your study sessions, quizzes, and flashcards, making it easy to revisit past content.
+<p align="center">
+  <img src="History_of_chats.png" width="300" style="margin-right: 10px;"/>
+</p> 
 - **Progress Tracking:** Monitor your learning progress with features that track quiz performance, document interactions, and flashcard mastery. Never lose sight of your learning journey.
+<p align="center">
+  <img src="History_quiz,flash,sub.png" width="300" style="margin-right: 10px;"/>
+</p>
 
-  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
 
 ### 📶 Offline Mode
 - **Offline Chatbot:** The Gemma model allows you to continue using the chatbot features without internet access. Whether you're on a plane or in a remote area, your study momentum remains uninterrupted.
+<p align="center">
+  <img src="Pictures/Aeroplane.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/UI_for_offline.png" width="300" style="margin-right: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="Pictures/chat_in_offline.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/Response_in_offline.png" width="300" style="margin-right: 10px;"/>
+</p>
 - **Local Storage:** Chats, quizzes, and flashcards are stored locally, so you can access them anytime without worrying about internet connectivity.
 
-  ![App Flowchart](Pictures/Work%20Flow.png)         ![App Flowchart](Pictures/Work%20Flow.png)
 
 ---
 
