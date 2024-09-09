@@ -26,7 +26,7 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 - **Image Chat:** Allows you to interact with complex image questions that cant be texted. Just by uploading the photo and integrating AI with that provides seemless response to the question.
 <p align="center">
   <img src="Pictures/Chat_im.png" width="300" style="margin-right: 10px;"/>
-  <img src="Pictures/Chat_im_res.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/chat_im_res.png" width="300" style="margin-right: 10px;"/>
 </p>
 
 - **General Purpose:** Allows you to ask any multi domain subjectual questions and get accurate response achieved by prompt engineering and chain of thoughts and powered by Google Gemini model.
@@ -46,8 +46,8 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 
 - **Flashcards:** Helps reinforce learning with flashcards that are automatically created from your study materials. Whether you're prepping for an exam or just reviewing content, flashcards make recall easier and more efficient.
 <p align="center">
-  <img src="flash.png" width="300" style="margin-right: 10px;"/>
-  <img src="flash_ans.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/flash.png" width="300" style="margin-right: 10px;"/>
+  <img src="Pictures/flash_ans.png" width="300" style="margin-right: 10px;"/>
 </p>
 
 
@@ -76,14 +76,9 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 <p align="center">
   <img src="Pictures/Aeroplane.png" width="300" style="margin-right: 10px;"/>
   <img src="Pictures/UI_for_offline.png" width="300" style="margin-right: 10px;"/>
-</p>
-
-<p align="center">
   <img src="Pictures/chat_in_offline.png" width="300" style="margin-right: 10px;"/>
   <img src="Pictures/Response_in_offline.png" width="300" style="margin-right: 10px;"/>
 </p>
-- **Local Storage:** Chats, quizzes, and flashcards are stored locally, so you can access them anytime without worrying about internet connectivity.
-
 
 ---
 
