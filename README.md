@@ -9,11 +9,11 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 ## 🌟 Key Features
 ### 🖥️Interface
 <p align="center">
-  <img src="Pictures/Logo.png" width="250" style="margin-right: 10px;"/> Loading....
-  <img src="Pictures/Icon.png" width="250" style="margin-right: 10px;"/> Icon
-  <img src="Pictures/get_Started.png" width="250"/> Get Started
+  <img src="Pictures/Logo.png" width="250" style="margin-right: 10px;"/>
+  <img src="Pictures/Icon.png" width="250" style="margin-right: 10px;"/>
+  <img src="Pictures/get_Started.png" width="250"/>
 </p>
-
+**Loading**                  **Icon**                   **Get Started**
 
 ### 📑 DOC Chat & Q&A Chat
 - **DOC Chat:** Allows you to interact directly with your study materials. Simply upload a document (PDF, DOCX, etc.), and the AI chatbot will answer any questions related to the content. Perfect for clarifying complex concepts in real-time.
