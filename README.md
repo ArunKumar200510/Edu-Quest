@@ -9,9 +9,9 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 ## 🌟 Key Features
 ### 🖥️Interface
 <p align="center">
-  <img src="Pictures/Logo.png" width="250" style="margin-right: 10px;"/>
-  <img src="Pictures/Icon.png" width="250" style="margin-right: 10px;"/>
-  <img src="Pictures/get_Started.png" width="250"/>
+  <img src="Pictures/Logo.png" width="250" style="margin-right: 10px;"/> Loading....
+  <img src="Pictures/Icon.png" width="250" style="margin-right: 10px;"/> Icon
+  <img src="Pictures/get_Started.png" width="250"/> Get Started
 </p>
 
 
