@@ -7,21 +7,11 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 ---
 
 ## 🌟 Key Features
-### 🖥️Interface
-
+### 🖥️ Interface
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="Pictures/Logo.png" width="200"/>
-    <br>Image 1 Name
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="Pictures/Logo.png" width="200"/>
-    <br>Image 2 Name
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="Pictures/Logo.png" width="200"/>
-    <br>Image 3 Name
-  </div>
+  <img src="Pictures/Logo.png" width="250" style="margin-right: 10px;"/>
+  <img src="Pictures/Icon.png" width="250" style="margin-right: 10px;"/>
+  <img src="Pictures/get_Started.png" width="250"/>
 </p>
 
 ### 📑 DOC Chat & Q&A Chat
