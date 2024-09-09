@@ -106,7 +106,7 @@ This AI-powered learning app enhances student engagement, retention, and efficie
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Edu-Quest
+   cd Edu-Quest//Edu_Quest_AI
    ```
 3. **Install Dependencies:**
    ```bash
