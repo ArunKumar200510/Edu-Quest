@@ -121,7 +121,8 @@ This AI-powered learning app enhances student engagement, retention, and efficie
 
 ## 🎥 Demo
 
-Project Video : https://drive.google.com/file/d/13_iwjTcDZEY6bNY54Zna3gBgeDMsUiyN/view?usp=sharing
+Project Video : [Click Here](https://drive.google.com/file/d/13_iwjTcDZEY6bNY54Zna3gBgeDMsUiyN/view?usp=sharing)
+
 https://github.com/user-attachments/assets/7c35f636-3115-4f94-bfee-4137e9b25fd5
 
 
